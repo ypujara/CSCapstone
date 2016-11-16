@@ -3,7 +3,7 @@
 ## Synopsis
 
 A marketplace for students/groups to find creative and challenging projects to work on. Projects will be provided by industry engineers.  
-
+i
 ## CS390 Student Features
 
 CS390 Students: Please refer to the [grading form](https://docs.google.com/document/d/1owkuHpkWHiZVTyX7PPE0SZMQ5wUxfQFdkWwn8CsJHo0/edit?usp=sharing) for most recent updates to these tasks.
